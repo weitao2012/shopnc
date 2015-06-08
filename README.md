@@ -1,0 +1,2 @@
+# shopnc
+learn shopnc code
